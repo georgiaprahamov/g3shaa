@@ -34,3 +34,5 @@
 
 ##
 [![Geshata's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=g3shaa&layout=compact&langs_count=7&theme=dark)](https://github.com/g3shaa/github-readme-stats)
+        
+![Geshata's GitHub stats](https://github-readme-stats.vercel.app/api?username=g3shaa&show_icons=true&theme=transparent)
