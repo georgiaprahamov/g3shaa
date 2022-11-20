@@ -2,7 +2,7 @@
 
 - :sweat_smile: Sometimes I'm lazy, but I always do my job :smile:
 - :heart: I enjoy helping people with some basic Fivem Development issues as well as making scripts
-- :orange_heart: In love with QBCore :heart:
+- :orange_heart: In love with Javascript :heart:
 - :pinching_hand: 18 Years old 
       
 ##
