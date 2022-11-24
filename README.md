@@ -1,6 +1,6 @@
 # Hi , there! I'm Geshata! :smile:
 
-- :sweat_smile: Sometimes I'm lazy, but I always do my job :smile:
+- :sweat_smile: Just a programmer who loves learning new things :smile:
 - 🔧 Web Developer 🔧
 - :orange_heart: In love with Javascript :heart:
 - :pinching_hand: 18 Years old :pinching_hand:
