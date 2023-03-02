@@ -3,7 +3,7 @@
 - :sweat_smile: Just a programmer who loves learning new things :smile:
 - 🔧 Web Developer 🔧
 - :orange_heart: In love with Javascript :heart:
-- :pinching_hand: 18 Years old :pinching_hand:
+- :pinching_hand: 19 Years old :pinching_hand:
       
 ##
   
