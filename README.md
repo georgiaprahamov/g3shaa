@@ -4,7 +4,10 @@
 - 🔧 Web Developer 🔧
 - :orange_heart: In love with Javascript :heart:
 - :pinching_hand: 19 Years old :pinching_hand:
-      
+ ##
+ 
+ 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
  ##
  <h3>Follow me:</h3>
 
