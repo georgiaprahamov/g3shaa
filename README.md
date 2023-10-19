@@ -5,6 +5,9 @@ Hello there! I'm Geshata! 😊
 <li>🧡 Deeply enthusiastic about JavaScript.</li>
 <li>👌 A 19-year-old student at the Technical University of Varna, pursuing studies in Artificial Intelligence. 📚🤖 #AI
 Feel free to reach out for any tech-related discussions or collaborations! 😄</li>
+
+
+<hr>
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=g3shaa&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
