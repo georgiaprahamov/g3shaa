@@ -1,11 +1,10 @@
-# Hi , there! I'm Geshata! :smile:
+Hello there! I'm Geshata! 😊
 
-- :sweat_smile: Just a programmer who loves learning new things :smile:
-- 🔧 Web Developer 🔧
-- :orange_heart: In love with Javascript :heart:
-- :pinching_hand: 19 Years old :pinching_hand:
- ##
- 
+😅 I'm a passionate programmer dedicated to continuous learning.
+🔧 Specialized in Web Development.
+🧡 Deeply enthusiastic about JavaScript.
+👌 A 19-year-old student at the Technical University of Varna, pursuing studies in Artificial Intelligence. 📚🤖 #AI
+Feel free to reach out for any tech-related discussions or collaborations! 😄
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=g3shaa&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
  ##
