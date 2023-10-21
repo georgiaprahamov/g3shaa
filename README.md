@@ -7,10 +7,3 @@ Hello there! I'm Geshata! 😊
 Feel free to reach out for any tech-related discussions or collaborations! 😄</li>
 
 
-<hr>
- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=g3shaa&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-
